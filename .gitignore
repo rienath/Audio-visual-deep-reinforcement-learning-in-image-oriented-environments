@@ -1,3 +1,2 @@
 # Mac position files
-*.DS_Store
-experiments/PPO/Centipede/.DS_Store
+.DS_Store
